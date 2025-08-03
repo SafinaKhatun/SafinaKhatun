@@ -8,9 +8,10 @@
 
 ## 📍 Contact Information
 - **Location**: Birbhum, West Bengal
-- **Phone**: +91-6297791015
-- **Email**: safinakhatun201718@gmail.com 
+- **Email**: safinakhatun201718@gmail.com
+- **LeetCode**: [leetcode.com/SafinaKhatun](https://leetcode.com/u/BZE1UdEzPT/)
 - **GitHub**: [github.com/SafinaKhatun](https://github.com/SafinaKhatun)
+- **LinkedIn**:[linkedin.com/in/safinakhatun](https://www.linkedin.com/in/safinakhatun2002/)
 
 ## 🎓 Education
 **Vellore Institute of Technology, Bhopal**  
@@ -43,12 +44,12 @@ West Bengal
 - Conducted testing to ensure system reliability and accuracy
 - GitHub: [View Project](https://github.com/SafinaKhatun) 
 
-### Quiz Master – V1 | Flask, Jinja2, SQLite
+### Quiz Master | Flask, Jinja2, SQLite
 - Built a multi-user quiz platform with admin and user roles
 - CRUD features for subjects, chapters, quizzes, and scores
 - Implemented secure authentication and real-time quiz tracking
 - Designed a responsive UI with Bootstrap and data visualization
-- GitHub: [View Project](https://github.com/SafinaKhatun) 
+- GitHub: [View Project](https://github.com/SafinaKhatun/QuizMaster) 
 
 ### Smart Farm Management System | React 19 with TypeScript
 - Smart farm management system for sales, weather monitoring and soil health
