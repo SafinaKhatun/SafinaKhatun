@@ -56,7 +56,17 @@ West Bengal
 - Implemented machine learning for crop recommendations
 - Designed user-friendly interface for farmers
 - Collaborated on sustainable farming practices
-- GitHub: [View Project](https://github.com/SafinaKhatun) 
+- GitHub: [View Project](https://github.com/SafinaKhatun)
+
+### SlideCheck: PowerPoint and Image Text Analysis | Python 
+- Extracts text from each slide of a PowerPoint file.
+- Extracts text from images using Optical Character Recognition (OCR).
+- Analyzes the extracted text for:
+  - Conflicting numerical data
+  - Contradictory claims
+  - Timeline mismatches based on dates
+- GitHub: [View Project](https://github.com/SafinaKhatun/SlideCheck)
+ 
 
 ## 🏆 Achievements
 - Solved 100+ problems on LeetCode in Data Structures and Algorithms.
