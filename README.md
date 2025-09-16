@@ -35,6 +35,13 @@ West Bengal
 
 ## 🛠️ Technical Projects
 
+### Vibe: Real-Time Messenger | MERN stack
+- **Real-Time Messaging**: Send and receive messages instantly without refreshing the page.
+- **User Authentication**: Secure user sign-up and log-in.
+- **Private & Group Chats**: Create one-on-one chats or communicate with multiple users in a group.
+- **Typing Indicators**: See when others are typing for a more natural conversation flow.
+- **User Presence**: View the online status of other users.
+
 ### Face-Based Attendance System | Python, OpenCV
 - Developed a face recognition attendance management system using Python and OpenCV
 - Created a user interface for face registration and attendance tracking
