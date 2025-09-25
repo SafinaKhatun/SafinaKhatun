@@ -8,7 +8,7 @@
 
 ## 📍 Contact Information
 - **Location**: Birbhum, West Bengal
-- **Email**: safinakhatun201718@gmail.com
+- **Email**: safinakhatun.work@gmail.com
 - **LeetCode**: [leetcode.com/SafinaKhatun](https://leetcode.com/u/BZE1UdEzPT/)
 - **GitHub**: [github.com/SafinaKhatun](https://github.com/SafinaKhatun)
 - **LinkedIn**:[linkedin.com/in/safinakhatun](https://www.linkedin.com/in/safinakhatun2002/)
