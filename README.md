@@ -41,15 +41,16 @@ West Bengal
 - **Private & Group Chats**: Create one-on-one chats or communicate with multiple users in a group.
 - **Typing Indicators**: See when others are typing for a more natural conversation flow.
 - **User Presence**: View the online status of other users.
+- GitHub: will be updating soon
 
-### Face-Based Attendance System | Python, OpenCV
+### BioTrack: Face-Based Attendance System | Python, OpenCV
 - Developed a face recognition attendance management system using Python and OpenCV
 - Created a user interface for face registration and attendance tracking
 - Implemented real-time facial detection to automate attendance marking
 - Designed a training module to convert images into numeric format for improved recognition accuracy
 - Generated separate CSV files for attendance records based on subjects
 - Conducted testing to ensure system reliability and accuracy
-- GitHub: [View Project](https://github.com/SafinaKhatun) 
+- GitHub: [View Project](https://github.com/SafinaKhatun/Face-Recognition-Attendance-System)
 
 ### Quiz Master | Flask, Jinja2, SQLite
 - Built a multi-user quiz platform with admin and user roles
