@@ -1,11 +1,6 @@
 # Safina Khatun
-### Web Developer & Cloud Practitioner-in-Training
-
-[![Java](https://img.shields.io/badge/Java-Core%20Language-blue?logo=java)](https://java.com)
-[![Web Development](https://img.shields.io/badge/Web%20Development-Full--stack-brightgreen)](https://developer.mozilla.org)
-[![Python](https://img.shields.io/badge/Python-OpenCV%20Projects-yellow?logo=python)](https://python.org)
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-orange?logo=amazonaws)](https://aws.amazon.com)
-
+A highly motivated **B.Tech Computer Science and Engineering** student with a strong technical foundation in **Full-Stack Development (MERN stack, Flask)** and **Data Structures and Algorithms (DSA)**. Proficient in delivering functional applications and systems using languages like **Java** and **Python**. Currently dedicated to advancing expertise in **Computer Vision (OpenCV)** and **Cloud Computing**, with focused study on **AWS services (EC2, S3, Lambda)**. Seeking a challenging and impactful role to leverage technical skills, problem-solving abilities, and a proactive approach to learning.
+ 
 ## 📍 Contact Information
 - **Location**: Birbhum, West Bengal
 - **Email**: safinakhatun.work@gmail.com
@@ -19,14 +14,17 @@ B.Tech - Computer Science and Engineering (2022-2026)
 Bhopal, Madhya Pradesh
 
 **Jawahar Navodaya Vidyalaya**  
-CBSE Class X and Class XII (2014-2021)  
+CBSE Class X (90%) and Class XII (88%) (2014-2021)  
 West Bengal
 
 ## 🔧 Technical Skills
-**Languages**: Java, Python, HTML, CSS, JavaScript  
-**Frameworks**: Flask, React, Bootstrap  
-**Developer Tools**: Git, VS Code, Jupyter Notebook  
-**Areas of Interest**: DSA, Web Development, Cloud Computing 
+**Languages & Databases** : Java, Python, JavaScript, SQL 
+
+**Web Development** : MERN Stack, Node.js, REST APIs, HTML, CSS 
+
+**Data Science** : NumPy, Pandas 
+
+**Core CS Subjects** : DBMS, Operating System (OS), Networks, OOPS 
 
 ## 🧠 Current Focus
 - **Advancing Computer Vision Skills**: Deepening expertise in OpenCV and face recognition algorithms  
@@ -42,11 +40,11 @@ West Bengal
 - **Real-Time Chatting:** Instant, real-time communication in both direct messages and group environments.
 - **Media Support:** Send images and various other files within chat conversations.
 - **Search & Filtering:**
-* Filter your chats to display all, DMs, or groups.
-* Search for specific chats or friend requests.
+  - Filter your chats to display all, DMs, or groups.
+  - Search for specific chats or friend requests.
 - **Information View:**
-* View a friend's profile to see contact information, groups in common, and shared files.
-* View group details, including creation date, members, and shared files.
+  - View a friend's profile to see contact information, groups in common, and shared files.
+  - View group details, including creation date, members, and shared files.
 - GitHub: [View Project](https://github.com/SafinaKhatun/Vibe)
  
 ### BioTrack: Face-Based Attendance System | Python, OpenCV
@@ -80,7 +78,14 @@ West Bengal
   - Contradictory claims
   - Timeline mismatches based on dates
 - GitHub: [View Project](https://github.com/SafinaKhatun/SlideCheck)
- 
+
+
+## Certifications
+- GenAI Powered Data Analytics Job Simulation, Forage (**Tata Group**)
+- Technology Job Simulation, Forage (**Deloitte Australia**)
+- Cybersecurity Analyst Job Simulation, Forage (**Tata Group**)
+- Foundation Level Certification in Programming and Data Science (**IIT Madras**)
+
 
 ## 🏆 Achievements
 - Solved 100+ problems on LeetCode in Data Structures and Algorithms.
