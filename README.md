@@ -1,6 +1,8 @@
 # Safina Khatun
-A highly motivated **B.Tech Computer Science and Engineering** student with a strong technical foundation in **Full-Stack Development (MERN stack, Flask)** and **Data Structures and Algorithms (DSA)**. Proficient in delivering functional applications and systems using languages like **Java** and **Python**. Currently dedicated to advancing expertise in **Computer Vision (OpenCV)** and **Cloud Computing**, with focused study on **AWS services (EC2, S3, Lambda)**. Seeking a challenging and impactful role to leverage technical skills, problem-solving abilities, and a proactive approach to learning.
- 
+**Final-Year Student | Aspiring Software Engineer**
+
+Highly motivated student specializing in **Full-Stack Development** (MERN Stack), **Java** and **Python**. Proven ability to conceptualize, engineer, and deploy **scalable applications** and **real-time systems** (like Vibe: Real-Time Messenger), grounded in a strong understanding of **Data Structures**, **Algorithms**, and **Core CS Fundamentals** (System Design, DBMS, Networks).
+
 ## 📍 Contact Information
 - **Location**: Birbhum, West Bengal
 - **Email**: safinakhatun.work@gmail.com
@@ -25,11 +27,6 @@ West Bengal
 **Data Science** : NumPy, Pandas 
 
 **Core CS Subjects** : DBMS, Operating System (OS), Networks, OOPS 
-
-## 🧠 Current Focus
-- **Advancing Computer Vision Skills**: Deepening expertise in OpenCV and face recognition algorithms  
-- **Cloud Computing**: Actively studying AWS services (EC2, S3, Lambda)  
-- **Competitive Programming**: Daily problem-solving on LeetCode (100+ solutions)  
 
 ## 🛠️ Technical Projects
 
